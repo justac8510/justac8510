@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://pbs.twimg.com/profile_banners/1227430290106142720/1699597217/1500x500"  />
-</div>
 
 ###
 
@@ -15,7 +12,7 @@
 
 ###
 
-<h1 align="center">我不知道我在幹嘛呵呵</h1>
+<h1 align="center"></h1>
 
 ###
 
