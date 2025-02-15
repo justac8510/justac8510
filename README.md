@@ -5,15 +5,12 @@
 ###
 
 * <p align="left"> I am an undergraduate student majoring in CMPSC with dual minors in CPMEN and MATH
-* <p align="left"> Interested in web development and data analysis 
+* <p align="left"> Interested in full stack development and AI
 * <p align="left"> looking forward to building projects and hackathon
 
 ###
 
 #### Language & Framework:
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=justac8510&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="stats graph"/>
 
 ###
 
